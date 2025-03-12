@@ -40,16 +40,16 @@ pip install colorama
 Abra o terminal na pasta do projeto e execute o script:
 
 ```bash
-python main.py
+python3 main.py
 ```
 4. Iniciar o Jogo
 Siga as instruções no terminal para começar a jogar.
 
 Como Funciona
-O jogo começa com um embaralhamento das cartas.
-O jogador escolhe duas cartas de diferentes listas de cartas para combinar.
-Se as cartas forem iguais, elas são removidas. Se forem diferentes, o jogo continua.
-Quando todas as cartas forem removidas, o jogo termina.
+1. O jogo começa com um embaralhamento das cartas.
+1. O jogador escolhe duas cartas de diferentes listas de cartas para combinar.
+1. Se as cartas forem iguais, elas são removidas. Se forem diferentes, o jogo continua.
+1. Quando todas as cartas forem removidas, o jogo termina.
 ```
 Bem-vindo ao jogo da memória!
 Vamos começar!
