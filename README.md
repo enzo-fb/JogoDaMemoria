@@ -31,13 +31,13 @@ Para rodar o jogo em seu computador, siga as instruções abaixo:
 git clone https://github.com/enzo-fb/JogoDaMemoria
 ```
 2. Instalar Dependências
-O jogo utiliza a biblioteca colorama para colorir o texto no terminal. Para instalá-la, execute:
+<p>O jogo utiliza a biblioteca colorama para colorir o texto no terminal. Para instalá-la, execute:</p>
 
 ```bash
 pip install colorama
 ```
 3. Rodar o Jogo
-Abra o terminal na pasta do projeto e execute o script:
+<p> Abra o terminal na pasta do projeto e execute o script:</p>
 
 ```bash
 python3 main.py
