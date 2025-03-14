@@ -59,9 +59,11 @@ Cartas disponíveis:
 ['J', 'G', 'D', 'H', 'A', 'I', 'K', 'F', 'L', 'B', 'C', 'E']
 
 Escolha a posição da carta (0 a 11)
-Digite a posição primeira carta: 0
+Digite a posição primeira carta:
+0
 Escolha a posição da carta (0 a 11)
-Digite a posição segunda carta: 1
+Digite a posição segunda carta:
+1
 Cartas diferentes!
 ...
 
